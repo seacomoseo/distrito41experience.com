@@ -1,0 +1,16 @@
+name: Nosotros
+id: nosotros
+title: Nosotros
+subtitle: Quiénes Somos
+size: md
+bi: fotos/paintball/adultos/2024-01-20-13-01-18.jpg
+box:
+  cols: 2
+  duo: 1
+  align: left
+boxes:
+- bi: fotos/paintball/adultos/2024-01-20-12-41-57.jpg
+  parallax: soft
+  rate: 16/9
+- align_y: center
+  md: Somos un equipo de frikis de los juegos tácticos, ingenieros de efectos especiales y monitores titulados que llevan más de 10 años transformando la diversión en recuerdos inolvidables.

@@ -1,6 +1,6 @@
 icons:
   type: solid
-  sharp: true
+  sharp: false
   emojis: false
   play: youtube-iframe
   up: ''
@@ -17,8 +17,8 @@ fonts:
     line_height: 1.25
   cursive:
     google: true
-    family: Dancing Script
-    weight: 400
+    family: Montserrat
+    weight: 800
     bold: 0
     italic: false
     line_height: 1.25
@@ -26,7 +26,7 @@ fonts:
     top: 0
   title:
     google: true
-    family: Montserrat
+    family: Big Shoulders Stencil
     weight: 800
     bold: 0
     italic: false
@@ -36,7 +36,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#95cd3f'
     light: ''
     dark: ''
     contrast:
@@ -52,7 +52,7 @@ colors:
       in: true
       text: true
   cta:
-    color: '#fe5f55'
+    color: ''
     light: ''
     dark: ''
     contrast:
@@ -63,15 +63,15 @@ colors:
     white: '#fff'
     light: '#eee'
     gray: '#767676'
-    dark: '#282525'
+    dark: '#1e1c1f'
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 1.33
+  chamfer: false
 buttons:
   sides_round: false
   dot_circle: false
-  deep: true
+  deep: false
   outline: false
   font:
     type: title
@@ -87,6 +87,6 @@ inputs:
 shadow:
   left: 0.15
   top: 0.15
-  blur: 0
+  blur: 0.15
   color: black
   alpha: 0.85

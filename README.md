@@ -1,6 +1,6 @@
-# var_domain
+# distrito41experience.com
 
-[![var_domain](/assets/media/base/icon.svg)](https://var_domain/)
+[![distrito41experience.com](/assets/media/base/logo.svg)](https://distrito41experience.com/)
 
 
 ## STEPS
@@ -9,12 +9,12 @@
 ### Local
 
 - If new project (not fork):
-  - Copy [var_domain project files](https://github.com/seacomoseo/var_domain)
+  - Copy [distrito41experience.com project files](https://github.com/seacomoseo/distrito41experience.com)
   - `git submodule add https://github.com/seacomoseo/sansoul.git themes/sansoul`
 - Else if fork:
   - Download submódule theme files: `git submodule update --init --recursive`
 - Now you can see the run project in the browser with the `do server` comand
-- `README.md` ⏩ edit baseURL ("var_domain") + delete steps bit by bit
+- `README.md` ⏩ edit baseURL ("distrito41experience.com") + delete steps bit by bit
 - Design
   - You can edit any file with the same structure of theme sansoul
   - GENERAL
@@ -72,36 +72,36 @@
 #### Domain
 
 - If Netlify
-  - [`Domain Management / settings`](https://app.netlify.com/sites/var_name/settings/domain)
+  - [`Domain Management / settings`](https://app.netlify.com/sites/distrito41experience/settings/domain)
   - `Add custom domain`
   - `Check DNS configuration` Copy
   - Add `DNS Records` copied from Netlify to Domain gestor:
-    - From: `var_domain`
+    - From: `distrito41experience.com`
       DNS Record: `ALIAS`, `ANAME` or `flattened CNAME`
       To: `apex-loadbalancer.netlify.com`
-    - From: `var_domain`
+    - From: `distrito41experience.com`
       DNS Record: `A`
       To: `75.2.60.5`
     - From: `www`
       DNS Record: `CNAME`
-      To: `var_name.netlify.app.`
+      To: `distrito41experience.netlify.app.`
     - Maybe you need to eliminate the previous records with similar names
   - `Verify DNS configuration`
   - If it does not work after a while, try `Set as main domain` in the `www` version and also in te `nowww` version
 - If Cloudflare Pages
-  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/var_name/domains)
+  - [Custom domains](https://dash.cloudflare.com/?to=/:account/pages/view/distrito41experience/domains)
   - `Set up a custom domains`
-  - `var_domain`
+  - `distrito41experience.com`
   - `Continue`
   - Add `DNS Records` copied from Cloudflare Pages to Domain gestor:
-    - From: `var_domain`
+    - From: `distrito41experience.com`
       DNS Record: `CNAME`
-      To: `var_name.pages.dev`
+      To: `distrito41experience.pages.dev`
     - From: `www`
       DNS Record: `CNAME`
-      To: `var_name.pages.dev`
+      To: `distrito41experience.pages.dev`
   - `Activate domain` (if `Begin DNS transfer` end)
-  - Repeat with `www.var_domain`
+  - Repeat with `www.distrito41experience.com`
   - ...........................................................
 
 
@@ -111,11 +111,11 @@
   - Add domain and emails in [GSS](https://docs.google.com/spreadsheets/d/1yQEoxReqnvQbQ5LkGnhUvu2_Aa-PhGfFztoRG1qY6iM/edit?gid=0#gid=0)
 - If Netlify Form
   - Don't need configure nothing! Build like you want in local or with CMS
-  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/var_name/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
+  - [`Netlify ⏩ Site ⏩ Forms ⏩ Form Notifications`](https://app.netlify.com/sites/distrito41experience/settings/forms#form-notifications) ⏩ `Add notification ⏩ Email notification ⏩ Email to Notify`
     - `Email to notify` = Emails of collaborators that want receive submissions
-    - `Custom email subject line` = `Formulario de contacto de var_domain`
+    - `Custom email subject line` = `Formulario de contacto de distrito41experience.com`
     - `Save`
-  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/var_name/forms)
+  - Submissions: [`Netlify site ⏩ Forms`](https://app.netlify.com/sites/distrito41experience/forms)
 - [formsubmit.co](https://formsubmit.co/)
 - If Google Form: [Tutorial](https://seacomoseo.com/instrucciones/#google-forms)
 
@@ -168,7 +168,7 @@
 
 ##### Services Layout
 
-1. [Servicios var_domain](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
+1. [Servicios distrito41experience.com](https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK) ⏩ `File ⏩ Make a copy` ⏩ Select client directory.
 1. Change the info.
 1. `Share` ⏩ Add emails of collaborators with `Editor` permission.
 
@@ -180,9 +180,9 @@ Send to all collaborators next:
 ###### WhatsApp
 
 ```md
-*ENTREGA WEB var_domain*
+*ENTREGA WEB distrito41experience.com*
 
-Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB var_domain`).
+Te dejo aquí este mensaje como referencia (también te lo paso por email con el asunto `ENTREGA WEB distrito41experience.com`).
 
 En el siguiente enlace tienes instrucciones sobre cosas referentes a tu sitio web (cómo modificar cosas, información extra, ect.):
 
@@ -196,7 +196,7 @@ No es necesario que lo veas, solo lo es si quieres hacer cosas por tu cuenta o s
 ###### Mail
 
 ```
-Asunto: ENTREGA WEB var_domain
+Asunto: ENTREGA WEB distrito41experience.com
 Cuerpo:
 Te dejo aquí este email como referencia.
 

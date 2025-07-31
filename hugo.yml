@@ -1,11 +1,11 @@
-baseURL: https://sansoul.pages.dev
+baseURL: https://distrito41experience.com
 buildFuture: true
 theme: [sansoul]
 params:
-  domain: sansoul.es
-  name: sansoul
-  netlify_id: c68e19de-b566-40c3-96ac-0e5884121e3f
-  netlify_hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  cloudflare_id: YmY5ZTdjNDM1NzMxYjI2YTg3ZGYyZWI1YjEwYWNmNmM=
-  drive_link: https://drive.google.com/file/d/1trq28fMfEVwoZOk4ue0tJzAJDZtj64BK
-  drive_mails: sansoul@seacomoseo.com
+  domain: distrito41experience.com
+  name: distrito41experience
+  netlify_id: ''
+  netlify_hook: ''
+  cloudflare_id: ZTY0MTYyNTU4MDllNmQ4M2IyNzUxZDRhNjlkNmU1MmEK
+  drive_link: https://drive.google.com/file/d/1IhyW50y4O7_1_qiPKdMLp_DBcshN9NAc
+  drive_mails: paintballindoorelche@gmail.com

@@ -1,0 +1,32 @@
+name: Eventos
+title: Eventos
+subtitle: Todo listo
+md: para que solo te ocupes de pasarlo bien
+box:
+  cols: 0
+  card: true
+  caps: true
+  line: true
+  hs: 4
+  md_sm: true
+  icon_type: bottom
+  label: Ver más
+boxes:
+- title: Cumpleaños
+  subtitle: 
+  md: 
+  icon: cake-candles
+  image: fotos/paintball/ninos/2023-10-14-11-02-31.jpg
+  link: /cumpleanos/
+- title: Despedidas de Solter@
+  subtitle: 
+  md: 
+  icon: party-horn
+  image: fotos/paintball/adultos/2016-11-26-20-21-42.jpg
+  link: /despedidas/
+- title: Team Building
+  subtitle: 
+  md: 
+  icon: people-group
+  image: fotos/paintball/adultos/2024-01-20-12-38-34.jpg
+  link: /team-building/

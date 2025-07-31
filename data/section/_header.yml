@@ -1,0 +1,31 @@
+name: Cabecera
+fade: main-dark
+fade_type: circle-alt
+full: true
+size: sm
+
+hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
+bi: fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+image: presentacion.mp4#mute
+ratio: 16/9
+
+box:
+  node: div
+  cols: 0
+  align_y: center
+boxes:
+- image: base/logo.svg
+  fit_vs: 0.5
+- md: |
+    {{% param header.md %}}
+
+    [[:paper-plane: Reserva tu partida]](#contacto)
+    [[:plus: Ver Más]](#more "[invert]")
+
+params:
+- page: header.hanchor
+  box: hanchor
+- page: header.bi
+  box: bi
+- page: header.image
+  box: image

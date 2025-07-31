@@ -7,17 +7,17 @@ tpl:
     sticky: auto
     size: ''
     auto: same-modals
-  callnow:
-    show: auto
+  callnow: auto
   section:
   - size: lg
-    line: true
+    color: dark
+    fade: main-dark
+    # line: true
     caps: true
-    alpha: .7
+    alpha: 0.7
     parallax: fix
-    div: curve-side
+    div: drip
     div_x: false
     div_y: false
-  - color: white
-    div_x: true
-    div_y: true
+  - div_x: true
+    # color: main-dark

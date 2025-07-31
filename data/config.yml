@@ -1,13 +1,9 @@
 langs:
 - lang: es
-  title: Tema SanSoul de Hugo EJEMPLO
-  description: SanSoul es el alma del tema Hugo de lorensansol con el que generar sitios web estáticos, puedes copiarlo y usarlo como quieras
-  google_analytics: G-NBZD18K812
-- lang: en
-  title: SanSoul Hugo Theme EXAMPLE
-  description: SanSoul is the soul of lorensansol's Hugo theme with which to generate static websites, you can copy it and use it however you want
-  disabled: true
+  title: Distrito 41 Experience
+  description: 'Centro de Ocio Indoor en Elche, Alicante: Paintball, Laser Tag y VR en Elche (Alicante). Pista indoor, reservas por grupo, sala de meriendas, bar y packs para cumpleaños, despedidas y empresas.'
+  google_analytics: G-MTRFT28H6J
 cms:
-  logo: base/logo.svg
-others:
-  show: true
+  logo: base/icon.svg
+# others:
+#   show: true

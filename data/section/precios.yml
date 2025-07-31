@@ -1,0 +1,17 @@
+name: Precios
+title: Precios
+subtitle: Tarifas y Ofertas
+md: Todas incluyen monitor, equipación y fotos de recuerdo
+box:
+  cols: 4
+  color: dark
+  icon_type: bottom
+  caps: true
+  line: true
+  hs: 4
+  label: Ver más
+  slider: true
+
+params:
+- page: prices
+  box: boxes

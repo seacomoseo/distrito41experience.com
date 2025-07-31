@@ -1,0 +1,34 @@
+name: Experiencias
+title: Experiencias
+subtitle: Elige tu aventura
+md: Todas incluyen monitor, briefing y fotos de recuerdo
+box:
+  cols: 0
+  card: true
+  caps: true
+  line: true
+  hs: 4
+  md_sm: true
+  icon_type: bottom
+  label: Ver más
+boxes:
+- title: Paintball Indoor
+  md: Bolazos que pican, no duelen
+  icon: location-crosshairs
+  image: fotos/paintball/ninos/2017-01-29-12-49-29.jpg
+  link: /paintball-indoor/
+- title: Laser Tag
+  md: Toda la acción sin impactos
+  icon: gun
+  image: fotos/laser-tag/2017-02-10-21-52-21.jpg
+  link: /laser-tag/
+- title: Realidad Virtual (VR)
+  md: Viaja a otros mundos
+  icon: vr-cardboard
+  image: fotos/vr/herozone-actores-grupo-a.jpg
+  link: /realidad-virtual-vr/
+- title: Batallas NERF
+  md: La opción junior más segura
+  icon: crosshairs
+  image: fotos/nerf/2025-07-31-21-34-00.jpg
+  link: /batallas-nerf/

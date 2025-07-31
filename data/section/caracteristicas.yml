@@ -1,0 +1,38 @@
+name: Características
+title: Características
+subtitle: ¿Por qué elegir Distrito 41?
+md: Seis razones que convierten cada partida en un plan redondo
+box:
+  cols: 3
+  icon_size: 3
+  # caps: true
+  # line: true
+  # hs: 4
+  # md_sm: true
+  # icon_type: side
+  # align: left
+boxes:
+- icon: calendar-check
+  title: Experiencia contrastada
+  subtitle: +10 años jugando
+  md: Más de una década guiando grupos y niños desde los 6 años
+- icon: warehouse
+  title: Pista indoor temática
+  subtitle: 500 m² cubiertos
+  md: Luz, sonido y humo controlados para inmersión total, haga el tiempo que haga
+- icon: users-between-lines
+  title: Exclusividad de pista
+  subtitle: Tu grupo, tu partida
+  md: 'Cero mezclas: privacidad máxima y ritmo propio para tu equipo'
+- icon: comment-heart
+  title: Trato cercano
+  subtitle: Sentirse en casa
+  md: Atención familiar; cuidamos cada detalle para que solo pienses en divertirte
+- icon: cake-slice
+  title: Sala de meriendas
+  subtitle: Cumples sin líos
+  md: Espacio privado para tartas, regalos y descanso tras la acción
+- icon: beer-mug-empty
+  title: Bar post-partida
+  subtitle: Brinda la victoria
+  md: Cervezas frías y refrescos listos para celebrar cada batalla

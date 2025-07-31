@@ -1,16 +1,14 @@
 title: Todas
 tpl:
   bg:
-    color: light
+    color: dark
   menu:
+    color: dark
     logo: true
     logo_align: center
     transparent: true
     size: sm
-    es:
-      image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
+    hide_icons: true
   section:
   - size: sm
   sections:

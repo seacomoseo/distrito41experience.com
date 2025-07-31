@@ -1,0 +1,21 @@
+name: Opiniones
+title: Opiniones
+subtitle: Lo que cuentan nuestros jugadores
+review:
+  cols: 3
+  color: dark
+  fade: main-dark
+  fade_type: linear-t
+  slider: true
+  time: 8
+params:
+- box: reviews
+
+boxes:
+- md: |
+    ¡Hay más aquí! ¡Añade la tuya!
+    {.subtitle}
+
+    [[:star: Google]](https://g.page/r/CU8v3aiU02OoEBM/review "[nofollow]")
+    [[:star: Facebook]](https://www.facebook.com/distrito41elche/reviews "[nofollow]")
+    [[:star: Tripadvisor]](https://www.tripadvisor.es/Attraction_Review-g661469-d10783920-Reviews-Distrito_41_Paintball_Indoor-Elche_Costa_Blanca_Province_of_Alicante_Valencian_C.html "[nofollow]")
