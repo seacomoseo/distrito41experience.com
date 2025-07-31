@@ -3,16 +3,12 @@ id: galeria
 title: Galería
 subtitle: Así lo flipamos
 fade: black
-# ph: true
 size: fluid
 gallery:
   type: boxes
 box:
   cols: 4
   cols_vs: 2
-  # gap: 0.5
-  # hide_radius: true
-  ratio: 3/2
   align_y: center
   slider: true
   time: 2

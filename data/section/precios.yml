@@ -9,7 +9,9 @@ box:
   caps: true
   line: true
   hs: 4
-  label: Ver más
+  link: '#contacto'
+  label: Reserva tu partida
+  pin: whatsapp
   slider: true
 
 params:

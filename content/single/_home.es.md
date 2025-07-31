@@ -2,9 +2,11 @@
 slug: inicio
 title: Inicio
 image: base/logo.svg
+icon: house
 summary: Paintball, Laser Tag y VR en Elche (Alicante). Pista indoor, reservas por grupo, sala de meriendas, bar y packs para cumpleaños, despedidas y empresas.
 seo: 'Distrito 41 Experience: Centro de Ocio Indoor en Elche, Alicante'
 description: Paintball, Laser Tag y VR en Elche (Alicante). Pista indoor, reservas por grupo, sala de meriendas, bar y packs para cumpleaños, despedidas y empresas.
+
 base: org
 org:
   types:
@@ -18,6 +20,7 @@ org:
   - Paintball & Laser Tag Indoor Elche Distrito41
   - Distrito 41 paintball & laser
   - Distrito 41 - Paintball & Laser Indoor Elche
+  - Distrito 41 Experience - Paintball & Laser Indoor Elche
   description: Paintball, Laser Tag y VR en Elche (Alicante). Pista indoor, reservas por grupo, sala de meriendas, bar y packs para cumpleaños, despedidas y empresas.
   legal: null
   nif: 74232576F
@@ -46,7 +49,7 @@ org:
   phones:
   - 600 82 21 43
   address:
-    name: Distrito 41 - Paintball & Laser Indoor Elche
+    name: Distrito 41 Experience - Paintball & Laser Indoor Elche
     street: C. Villena, 6
     pc: '03203'
     locality: Elche
@@ -57,6 +60,7 @@ org:
   areas:
   - Elche
   - Alicante
+  - Vega Baja del Segura
   - Murcia
   schedule:
   - days:
@@ -97,7 +101,8 @@ header:
   hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
   bi: fotos/paintball/adultos/2024-01-20-12-57-49.jpg
   image: presentacion.mp4#mute
-  md: '*Paintball, Laser Tag y Realidad Virtual* <br> *500 m² cubiertos de pura adrenalina* <br> ¡Sin preocuparte del tiempo!'
+  title: Paintball, Laser Tag y VR y NERF
+  subtitle: en Elche, Alicante
 
 
 images:
@@ -113,8 +118,6 @@ images:
 # - fotos/instalaciones/2019-05-25-20-43-41.jpg
 - fotos/instalaciones/2019-05-25-20-43-25.jpg
 # - fotos/instalaciones/2017-10-24-18-56-11.jpg
-# - fotos/instalaciones/2017-01-31-11-24-37.jpg
-# - fotos/instalaciones/2017-01-27-13-55-53.jpg
 
 - fotos/paintball/ninos/2023-10-14-11-04-33.jpg
 - fotos/paintball/ninos/2023-10-14-11-03-50.jpg
@@ -235,26 +238,26 @@ prices:
 - title: Paintball Indoor
   subtitle: desde
   price: 18 €/p
-  md: Bolas ilimitadas
-  link: /paintball-indoor/#precios
+  md: |
+    - Bolas ilimitadas
   icon: location-crosshairs
 - title: Laser Tag
   subtitle: desde
   price: 15 €/p
-  md: 1 h, misiones múltiples
-  link: /laser-tag/#precios
+  md: |
+    - 1 h, misiones múltiples
   icon: gun
 - title: Realidad Virtual (VR)
   subtitle: desde
   price: 12 €/p
-  md: Sesión libre
-  link: /realidad-virtual-vr/#precios
+  md: |
+    - Sesión libre
   icon: vr-cardboard
 - title: Batallas NERF
   subtitle: desde
   price: 18 €/p
-  md: 1 h, misiones múltiples
-  link: /batallas-nerf/#precios
+  md: |
+    - 1 h, misiones múltiples
   icon: crosshairs
 
 - title: Cumpleaños
@@ -264,7 +267,6 @@ prices:
     - Elige Experiencia
     - Merienda y tarta
     - Invitaciones
-  link: /cumpleanos/
   icon: cake-candles
 - title: Despedidas de Solter@
   subtitle: desde
@@ -272,7 +274,6 @@ prices:
   md: |
     - Elige Experiencia
     - Comida o cena
-  link: /despedidas/
   icon: party-horn
 - title: Team Building
   subtitle: desde
@@ -280,7 +281,6 @@ prices:
   md: |
     - Láser Tag y Paintball
     - Cerveza o refresco
-  link: /team-building/
   icon: people-group
 
 

@@ -3,7 +3,7 @@ title: Eventos
 subtitle: Todo listo
 md: para que solo te ocupes de pasarlo bien
 box:
-  cols: 0
+  cols: 4
   card: true
   caps: true
   line: true
@@ -13,20 +13,20 @@ box:
   label: Ver más
 boxes:
 - title: Cumpleaños
-  subtitle: 
-  md: 
+  # subtitle: Fiestas que marcan época
+  md: Celebra a lo grande con acción, sala de meriendas y fotos de recuerdo
   icon: cake-candles
   image: fotos/paintball/ninos/2023-10-14-11-02-31.jpg
   link: /cumpleanos/
 - title: Despedidas de Solter@
-  subtitle: 
-  md: 
+  # subtitle: Adiós soltería, hola adrenalina
+  md: 'Última misión antes del “sí, quiero”: retos, risas y cervezas bien frías'
   icon: party-horn
-  image: fotos/paintball/adultos/2016-11-26-20-21-42.jpg
+  image: fotos/paintball/adultos/2019-10-11-20-00-00.jpg
   link: /despedidas/
 - title: Team Building
-  subtitle: 
-  md: 
+  # subtitle: Equipos que juegan, equipos que ganan
+  md: Refuerza comunicación y estrategia en un entorno inmersivo y privado
   icon: people-group
   image: fotos/paintball/adultos/2024-01-20-12-38-34.jpg
   link: /team-building/

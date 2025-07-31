@@ -1,14 +1,10 @@
 name: FAQ
 title: FAQ
 subtitle: Preguntas Frecuentes
-size: md
-accordions:
-- title: ¿Una pregunta de ejemplo?
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta de ejemplo?
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- title: ¿Otra pregunta más de ejemplo?
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+size: sm
+accordion:
+  headers: true
+  hs: 4
+params:
+- page: faq
+  box: accordions

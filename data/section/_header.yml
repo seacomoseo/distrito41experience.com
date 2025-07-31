@@ -16,10 +16,13 @@ box:
 boxes:
 - image: base/logo.svg
   fit_vs: 0.5
-- md: |
-    {{% param header.md %}}
+- params:
+  - page: header.title
+    box: subtitle
+  md: |
+    {{% param header.subtitle %}}
 
-    [[:paper-plane: Reserva tu partida]](#contacto)
+    [[:whatsapp: Reserva tu partida]](#contacto)
     [[:plus: Ver Más]](#more "[invert]")
 
 params:

@@ -1,7 +1,11 @@
 name: Contacto
 id: contacto
 title: Contacto y Reservas
-subtitle: Abierto todos los dias bajo reserva previa
+subtitle: ¿List@ para la batalla?
+md: |
+  Reserva ahora tu experiencia y asegura tu pista privada
+
+  *Abierto todos los dias bajo reserva previa*
 menu_button: cta
 box:
   cols: 2
@@ -27,7 +31,7 @@ boxes:
     full: true
   - type: address
     label: C. Villena, 6, 03203 Elche, Alicante
-    anchor: Distrito 41 - Paintball & Laser Indoor Elche, C. Villena, 6, 03203 Elche, Alicante
+    anchor: Distrito 41 Experience - Paintball & Laser Indoor Elche, C. Villena, 6, 03203 Elche, Alicante
     button: invert
   # form:
   #   email: sansoul@seacomoseo.com, paintballindoorelche@gmail.com
