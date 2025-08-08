@@ -343,7 +343,7 @@ faq:
 - title: ¿Duele la pintura?
   md: El calibre reducido solo “pica” un poco; mascarilla y pechera lo absorben casi todo.
 - title: ¿Cuántos jugadores hacen falta?
-  md: Grupos de **6 a 20**; la pista es siempre exclusiva para tu equipo.
+  md: Grupos de **8 a 20**; la pista es siempre exclusiva para tu equipo.
 - title: ¿Qué ropa llevo?
   md: Zapatillas cómodas y pantalón suelto; te prestamos camiseta camo y peto.
 - title: ¿Cómo reservo?

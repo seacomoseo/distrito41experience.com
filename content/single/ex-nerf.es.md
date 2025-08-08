@@ -135,7 +135,7 @@ faq:
 - title: ¿Duele?
   md: No; los dardos son de espuma y el contacto es suave.
 - title: ¿Cuántos jugadores?
-  md: Grupos de **6-20** personas. Pista siempre exclusiva.
+  md: Grupos de **8-20** personas. Pista siempre exclusiva.
 - title: ¿Qué ropa llevar?
   md: Zapatillas cómodas y ropa que permita moverse.
 - title: ¿Cómo reservo?

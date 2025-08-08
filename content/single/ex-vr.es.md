@@ -116,7 +116,7 @@ faq:
 - title: ¿Me puedo marear?
   md: 'Muy raro: usamos visores 4K y refresco 90 Hz, además de modos “comfort”.'
 - title: ¿Cuántos jugadores?
-  md: Hasta 6 simultáneos; rotación rápida para grupos grandes.
+  md: Desde 4 hasta 6 simultáneos; rotación rápida para grupos grandes.
 - title: ¿Qué ropa llevar?
   md: Zapatillas cerradas y ropa cómoda; evitad tacones o gorras.
 - title: ¿Cómo reservo?

@@ -194,7 +194,7 @@ faq:
 - title: ¿Duele?
   md: No hay impacto físico; sensores infrarrojos y vibración suave indican los impactos.
 - title: ¿Cuántos jugadores se necesitan?
-  md: Grupos de 6-20; pista siempre exclusiva para tu equipo.
+  md: Grupos de 8-20; pista siempre exclusiva para tu equipo.
 - title: ¿Qué ropa llevo?
   md: Zapatillas cómodas y ropa oscura para camuflarte mejor; te prestamos chaleco y bláster.
 - title: ¿Cómo reservo?
