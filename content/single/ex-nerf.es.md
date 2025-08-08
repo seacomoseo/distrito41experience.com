@@ -67,15 +67,33 @@ prices:
   subtitle: desde
   price: 18 €/p
   md: |
-    - 1 h, misiones múltiples
+    - **Duración:** 1 hora de juego
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
   icon: crosshairs
 
-- title: Cumpleaños
+- title: Pack Cumpleaños Estándar
   subtitle: desde
-  price: 18 €/p
+  price: 19,99 €/p
   md: |
-    - Merienda y tarta
-    - Invitaciones
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
+    - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
+  icon: cake-slice
+- title: Pack Cumpleaños Mediodía
+  subtitle: desde
+  price: 35 €/p
+  md: |
+    - **Duración:** De 12:00 a 15:30-16:00
+    - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
+    - **Comida:** Incluye pizza, además de la tarta de donuts
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
   icon: cake-candles
 
 

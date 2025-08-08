@@ -116,7 +116,6 @@ images:
 - fotos/paintball/adultos/2016-11-22-04-16-43.jpg
 
 - fotos/laser-tag/2023-12-30-12-52-25.jpg
-- fotos/laser-tag/2023-04-01-17-00-14.jpg
 - fotos/laser-tag/2020-06-27-21-20-37.jpg
 - fotos/laser-tag/2020-06-27-21-02-40.jpg
 - fotos/laser-tag/2020-06-27-21-02-07.jpg
@@ -139,12 +138,38 @@ images:
 
 
 prices:
-- title: Despedidas de Solter@
+- title: Paintball Indoor
+  subtitle: desde
+  price: 21,99 €/p
+  md: |
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Público:** mayores de 14 años
+    - **Mínimo de jugadores:** 8
+    - **Características:** Bolas ilimitadas
+  icon: location-crosshairs
+- title: Laser Tag
   subtitle: desde
   price: 18 €/p
   md: |
-    - Elige Experiencia
-    - Comida o cena
+    - **Duración:** 1 hora de juego
+    - **Público:** El precio es el mismo tanto para niños como para adultos
+    - **Mínimo de jugadores:** 8
+  icon: gun
+- title: Realidad Virtual (VR)
+  subtitle: desde
+  price: 18 €/p
+  md: |
+    - **Duración:** 1 hora de juego
+    - **Mínimo de jugadores:** 4
+    - **Máximo de jugadores:** 6
+  icon: vr-cardboard
+- title: Pack Despedidas de Solter@
+  subtitle: desde
+  price: 18 €/p
+  md: |
+    - **Precio:** El precio es el mismo que en los paquetes anteriores, según la actividad elegida
+    - **Extras:** Incluye "misión especial novi@s"
   icon: party-horn
 
 

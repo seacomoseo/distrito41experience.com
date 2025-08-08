@@ -59,25 +59,25 @@ prices:
 
 - title: Realidad Virtual (VR)
   subtitle: desde
-  price: 12 €/p
+  price: 18 €/p
   md: |
-    - Sesión libre
+    - **Duración:** 1 hora de juego
+    - **Mínimo de jugadores:** 4
+    - **Máximo de jugadores:** 6
   icon: vr-cardboard
 
-- title: Cumpleaños
+- title: Pack Cumpleaños Estándar
   subtitle: desde
-  price: 18 €/p
+  price: 19,99 €/p
   md: |
-    - Merienda y tarta
-    - Invitaciones
-  icon: cake-candles
-- title: Team Building
-  subtitle: desde
-  price: 18 €/p
-  md: |
-    - Láser Tag y Paintball
-    - Cerveza o refresco
-  icon: people-group
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
+    - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
+  icon: cake-slice
 
 
 reviews:

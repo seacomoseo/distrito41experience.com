@@ -8,7 +8,7 @@ seo: 'Cumpleaños en Elche, Alicante: Niños, Adolescentes y Adultos'
 description: 'Celebra cumpleaños en Elche (Alicante): paintball, Laser Tag, VR y NERF. Packs, sala de meriendas y extras. Precios y reserva fácil por WhatsApp.'
 
 base: service
-price: 18
+price: 19.99
 service_types:
 - Paintball para Cumpleaños
 - Laser Tag para Cumpleaños
@@ -71,13 +71,28 @@ images:
 
 
 prices:
-- title: Cumpleaños
+- title: Pack Cumpleaños Estándar
   subtitle: desde
-  price: 18 €/p
+  price: 19,99 €/p
   md: |
-    - Elige Experiencia
-    - Merienda y tarta
-    - Invitaciones
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
+    - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
+  icon: cake-slice
+- title: Pack Cumpleaños Mediodía
+  subtitle: desde
+  price: 35 €/p
+  md: |
+    - **Duración:** De 12:00 a 15:30-16:00
+    - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
+    - **Comida:** Incluye pizza, además de la tarta de donuts
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
   icon: cake-candles
 
 
@@ -118,8 +133,8 @@ faq:
   md: Desde 8 hasta 25 niños por grupo.
 - title: ¿Pueden jugar niños de distinta edad?
   md: Sí, adaptamos misiones y potencia de marcadoras.
-- title: ¿Puedo llevar mi propia tarta?
-  md: Claro, solo avísanos por alergias y la guardamos fría.
+# - title: ¿Puedo llevar mi propia tarta?
+#   md: Claro, solo avísanos por alergias y la guardamos fría.
 - title: ¿Incluye seguro?
   md: Sí, seguro de RC y accidentes para todos los participantes.
 

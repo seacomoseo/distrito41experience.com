@@ -8,7 +8,7 @@ seo: 'Paintball Indoor en Elche, Alicante: Pista Cubierta Exclusiva'
 description: Pista de paintball indoor en Elche. Partidas privadas, material incluido y packs para adultos, niños, despedidas y empresas. Consulta precios y reserva.
 
 base: service
-price: 18
+price: 21.99
 service_types:
 - Paintball Indoor
 - Paintball para Niños
@@ -154,30 +154,50 @@ prices:
 
 - title: Paintball Indoor
   subtitle: desde
-  price: 18 €/p
+  price: 21,99 €/p
   md: |
-    - Bolas ilimitadas
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Público:** mayores de 14 años
+    - **Mínimo de jugadores:** 8
+    - **Características:** Bolas ilimitadas
   icon: location-crosshairs
 
-- title: Cumpleaños
+- title: Pack Cumpleaños Estándar
   subtitle: desde
-  price: 18 €/p
+  price: 19,99 €/p
   md: |
-    - Merienda y tarta
-    - Invitaciones
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
+    - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
+  icon: cake-slice
+- title: Pack Cumpleaños Mediodía
+  subtitle: desde
+  price: 35 €/p
+  md: |
+    - **Duración:** De 12:00 a 15:30-16:00
+    - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
+    - **Comida:** Incluye pizza, además de la tarta de donuts
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
   icon: cake-candles
-- title: Despedidas de Solter@
+- title: Pack Despedidas de Solter@
   subtitle: desde
   price: 18 €/p
   md: |
-    - Comida o cena
+    - **Precio:** El precio es el mismo que en los paquetes anteriores, según la actividad elegida
+    - **Extras:** Incluye "misión especial novi@s"
   icon: party-horn
-- title: Team Building
+- title: Pack Jugones y Team Building
   subtitle: desde
-  price: 18 €/p
+  price: 37 €/p
   md: |
-    - Láser Tag y Paintball
-    - Cerveza o refresco
+    - **Duración:** 1 hora de paintball más 1 hora de juego de láser
   icon: people-group
 
 

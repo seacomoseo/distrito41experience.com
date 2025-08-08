@@ -8,7 +8,7 @@ seo: 'Team Building en Elche, Alicante: Cohesión y Diversión'
 description: 'Actividades de team building en Elche (Alicante): Paintball, Laser Tag y VR. Objetivos, packs para empresas y casos de éxito. Pide presupuesto.'
 
 base: service
-price: 18
+price: 37
 service_types:
 - Paintball para Empresas
 - Paintball Team Building
@@ -116,7 +116,6 @@ images:
 - fotos/paintball/adultos/2016-11-22-04-16-43.jpg
 
 - fotos/laser-tag/2023-12-30-12-52-25.jpg
-- fotos/laser-tag/2023-04-01-17-00-14.jpg
 - fotos/laser-tag/2020-06-27-21-20-37.jpg
 - fotos/laser-tag/2020-06-27-21-02-40.jpg
 - fotos/laser-tag/2020-06-27-21-02-07.jpg
@@ -139,12 +138,14 @@ images:
 
 
 prices:
-- title: Team Building
+- title: Pack Jugones y Team Building
   subtitle: desde
-  price: 18 €/p
+  price: 37 €/p
   md: |
-    - Láser Tag y Paintball
-    - Cerveza o refresco
+    - **Duración:** 1 hora de paintball más 1 hora de juego de láser
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Público:** mayores de 14 años
+    - **Características:** Bolas ilimitadas
   icon: people-group
 
 

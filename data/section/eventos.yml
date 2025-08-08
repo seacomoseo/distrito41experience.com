@@ -3,7 +3,7 @@ title: Eventos
 subtitle: Todo listo
 md: para que solo te ocupes de pasarlo bien
 box:
-  cols: 4
+  cols: 3
   card: true
   caps: true
   line: true

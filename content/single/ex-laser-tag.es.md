@@ -65,7 +65,6 @@ images:
 - fotos/instalaciones/2017-10-24-18-56-11.jpg
 
 - fotos/laser-tag/2023-12-30-12-52-25.jpg
-- fotos/laser-tag/2023-04-01-17-00-14.jpg
 - fotos/laser-tag/2020-06-27-21-20-37.jpg
 - fotos/laser-tag/2020-06-27-21-02-40.jpg
 - fotos/laser-tag/2020-06-27-21-02-07.jpg
@@ -92,30 +91,48 @@ prices:
 
 - title: Laser Tag
   subtitle: desde
-  price: 15 €/p
+  price: 18 €/p
   md: |
-    - 1 h, misiones múltiples
+    - **Duración:** 1 hora de juego
+    - **Público:** El precio es el mismo tanto para niños como para adultos
+    - **Mínimo de jugadores:** 8
   icon: gun
 
-- title: Cumpleaños
+- title: Pack Cumpleaños Estándar
   subtitle: desde
-  price: 18 €/p
+  price: 19,99 €/p
   md: |
-    - Merienda y tarta
-    - Invitaciones
+    - **Duración:** 1 hora de juego
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
+    - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
+  icon: cake-slice
+- title: Pack Cumpleaños Mediodía
+  subtitle: desde
+  price: 35 €/p
+  md: |
+    - **Duración:** De 12:00 a 15:30-16:00
+    - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
+    - **Comida:** Incluye pizza, además de la tarta de donuts
+    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Edad máxima:** 14 años
+    - **Mínimo de jugadores:** 10
   icon: cake-candles
-- title: Despedidas de Solter@
+- title: Pack Despedidas de Solter@
   subtitle: desde
   price: 18 €/p
   md: |
-    - Comida o cena
+    - **Precio:** El precio es el mismo que en los paquetes anteriores, según la actividad elegida
+    - **Extras:** Incluye "misión especial novi@s"
   icon: party-horn
-- title: Team Building
+- title: Pack Jugones y Team Building
   subtitle: desde
-  price: 18 €/p
+  price: 37 €/p
   md: |
-    - Láser Tag y Paintball
-    - Cerveza o refresco
+    - **Duración:** 1 hora de paintball más 1 hora de juego de láser
   icon: people-group
 
 
