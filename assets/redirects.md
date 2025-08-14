@@ -8,6 +8,7 @@ http://www.paintballindoorelche.com/*	https://distrito41experience.com/:splat
 /paintball%20infantil.htm	/paintball-indoor/#ninos
 /laser%20combat.htm	/laser-tag/
 /nerf.htm	/nerf/
+/nerf/	/batallas-nerf/
 /team%20building.htm	/team-building/
 /eventos-cumple.htm	/cumpleanos/
 /eventos-despedida.htm	/despedidas/
