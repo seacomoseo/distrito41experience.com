@@ -1,5 +1,5 @@
 ---
-slug: /
+slug: batallas-nerf
 title: NERF
 img: /u/fotos/nerf/2025-07-31-21-34-00.jpg
 icon: location_searching
