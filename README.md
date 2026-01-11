@@ -1,6 +1,6 @@
 # distrito41experience.com
 
-[![distrito41experience.com](/assets/media/base/logo.svg)](https://distrito41experience.com/)
+[![distrito41experience.com](/uploads/base/logo.svg)](https://distrito41experience.com/)
 
 
 ## STEPS
@@ -21,7 +21,7 @@
     - `config.yml`
     - `data/*.{yml,md}`
   - IMG + LOGO + FAVICON
-    - `assets/media/` folder ⏩ [Compress image tool](https://compressor.io/)
+    - `uploads/` folder ⏩ [Compress image tool](https://compressor.io/)
       - `base/poster.png`
       - `logo.svg`
       - `logo.png`
@@ -57,7 +57,7 @@
   - HTML: `data/config.yml ⏩ langs[*].html.{head,body}`
   - CSS: `assets/css/` ⏩ `{*,_variables-custom.scss,_custom.scss}`
   - JS: `assets/js/*,custom.js`
-  - IMG: `assets/media/*`
+  - IMG: `uploads/*`
   - REDIRECTS: `assets/redirects.md`
   - ROBOTS: `assets/robots.md`
   - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
@@ -123,7 +123,7 @@
 #### [Google Analytics](https://analytics.google.com/)
 
 - `Admin ⏩ Libre acount ⏩ New property ⏩ ...` copy ID
-- `data/config.yml ⏩ google_analytics` ⏩ paste ID
+- `data/config.yml ⏩ ga4` ⏩ paste ID
 - `Ajustes de datos`
   - `Recogida de datos`
     - `Recogida de datos de Google signals ⏩ Empezar`
@@ -137,13 +137,13 @@
 
 - Add property
 - Verify versions ⏩ `data/config.yml`
-  - `google_analytics`
-  - `google_site_verification`
-  - `google_file_verification`
+  - `ga4`
+  - `g_site_verify`
+  - `g_file_verify`
   - DNS:
     From: `@`
     DNS Record: `TXT`
-    To: `google-site-verification=[google_site_verification]`
+    To: `google-site-verification=[g_site_verify]`
 - Link with Analytics
 - Add sitemap.xml
 

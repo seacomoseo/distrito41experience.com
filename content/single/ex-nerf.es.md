@@ -1,11 +1,12 @@
 ---
-slug: batallas-nerf
+slug: /
 title: NERF
-image: fotos/nerf/2025-07-31-21-34-00.jpg
-icon: crosshairs
-summary: Actividad NERF para niños años en Elche. Cumpleaños con sala de meriendas, material incluido y monitores. Consulta precios y reserva.
-seo: 'Batallas NERF en Elche, Alicante: Diversión Segura para Niños'
-description: Actividad NERF para niños años en Elche. Cumpleaños con sala de meriendas, material incluido y monitores. Consulta precios y reserva.
+img: /u/fotos/nerf/2025-07-31-21-34-00.jpg
+icon: location_searching
+sum: Actividad NERF para niños años en Elche. Cumpleaños con sala de meriendas, material incluido y monitores. Consulta precios y reserva.
+seo:
+  title: 'Batallas NERF en Elche, Alicante: Diversión Segura para Niños'
+  desc: Actividad NERF para niños años en Elche. Cumpleaños con sala de meriendas, material incluido y monitores. Consulta precios y reserva.
 
 base: service
 price: 18
@@ -17,7 +18,6 @@ service_areas:
 - Alicante
 - Vega Baja del Segura
 - Murcia
-
 
 tpl:
   sections:
@@ -35,67 +35,64 @@ tpl:
   - file: contacto
   - file: mapa
 
-
 header:
   hanchor: Batallas NERF en Elche, Alicante
-  bi: fotos/nerf/2025-07-31-21-34-00.jpg
-  image: presentacion.mp4#mute
+  bi: /u/fotos/nerf/2025-07-31-21-34-00.jpg
+  vid: /u/presentacion.mp4
+  mute: y
   title: Batallas NERF en Elche, Alicante
-  subtitle: Diversión segura para niños
+  sub: Diversión segura para niños
 
+imgs:
 
-images:
+- /u/fotos/instalaciones/2024-01-20-12-32-14.jpg
+- /u/fotos/instalaciones/2024-01-12-12-40-35.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-23.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-22.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-21.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-20.jpg
+- /u/fotos/instalaciones/2019-05-25-20-45-01.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-54.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-41.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-25.jpg
+- /u/fotos/instalaciones/2017-10-24-18-56-11.jpg
 
-- fotos/instalaciones/2024-01-20-12-32-14.jpg
-- fotos/instalaciones/2024-01-12-12-40-35.jpg
-- fotos/instalaciones/2020-02-27-13-25-23.jpg
-- fotos/instalaciones/2020-02-27-13-25-22.jpg
-- fotos/instalaciones/2020-02-27-13-25-21.jpg
-- fotos/instalaciones/2020-02-27-13-25-20.jpg
-- fotos/instalaciones/2019-05-25-20-45-01.jpg
-- fotos/instalaciones/2019-05-25-20-43-54.jpg
-- fotos/instalaciones/2019-05-25-20-43-41.jpg
-- fotos/instalaciones/2019-05-25-20-43-25.jpg
-- fotos/instalaciones/2017-10-24-18-56-11.jpg
-
-- fotos/nerf/2025-07-31-21-34-00.jpg
-
+- /u/fotos/nerf/2025-07-31-21-34-00.jpg
 
 prices:
 
 - title: Batallas NERF
-  subtitle: desde
+  sub: desde
   price: 18 €/p
   md: |
     - **Duración:** 1 hora de juego
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: crosshairs
+  icon: location_searching
 
 - title: Pack Cumpleaños Estándar
-  subtitle: desde
-  price: 19,99 €/p
+  sub: desde
+  price: 20 €/p
   md: |
-    - **Duración:** 1 hora de juego
+    - **Duración:** 2:30 horas de juego
     - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
     - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
     - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
-    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Extras:** Las fotos de la partida se muestran en una TV y enviamos para que tengan recuerdos inolvidables
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: cake-slice
+  icon: cake
 - title: Pack Cumpleaños Mediodía
-  subtitle: desde
+  sub: desde
   price: 35 €/p
   md: |
     - **Duración:** De 12:00 a 15:30-16:00
     - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
     - **Comida:** Incluye pizza, además de la tarta de donuts
-    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Extras:** Las fotos de la partida se muestran en una TV y enviamos para que tengan recuerdos inolvidables
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: cake-candles
-
+  icon: cake_add
 
 reviews:
 
@@ -105,7 +102,7 @@ reviews:
 
     ... En general muy amables y dando facilidades. ¡Gracias por todo!
   rating: 5
-  image: https://lh3.googleusercontent.com/a-/ALV-UjUh7yjpHMZBTvfJff7LpaI7ueE1D6lJwqoqAqJcjtK9gdjgqyCW=s136
+  img: https://lh3.googleusercontent.com/a-/ALV-UjUh7yjpHMZBTvfJff7LpaI7ueE1D6lJwqoqAqJcjtK9gdjgqyCW=s136
   by: Google
 
 - title: Vanesa M.
@@ -116,7 +113,7 @@ reviews:
 
     Repetiremos sin duda.
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocVMSomeHashvANesaImage=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocVMSomeHashvANesaImage=s136
   by: Google
 
 - title: Patricia V.
@@ -125,9 +122,8 @@ reviews:
 
     Instalaciones limpias, pistolas en buen estado y organización de 10.
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocPvSomeHashPatImage=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocPvSomeHashPatImage=s136
   by: Google
-
 
 faq:
 - title: ¿Edad mínima?
@@ -140,7 +136,5 @@ faq:
   md: Zapatillas cómodas y ropa que permita moverse.
 - title: ¿Cómo reservo?
   md: Online, WhatsApp o llamada. Abonando una señal mínima, ¡listo!
-
 ---
-
 

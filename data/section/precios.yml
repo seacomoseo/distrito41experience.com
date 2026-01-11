@@ -1,19 +1,19 @@
 name: Precios
-title: Precios
-subtitle: Tarifas y Ofertas
-md: Todas incluyen monitor, equipación y fotos de recuerdo
-box:
-  cols: 3
-  color: dark
-  icon_type: bottom
-  caps: true
-  line: true
-  hs: 4
-  link: '#contacto'
-  label: Reserva tu partida
-  pin: whatsapp
-  slider: true
-
-params:
-- page: prices
-  box: boxes
+boxes:
+- title: Precios
+  sub: Tarifas y Ofertas
+  md: Todas incluyen monitor, equipación y fotos de recuerdo
+  get:
+  - from: prices
+    to: boxes
+  box:
+    cols: 3
+    color: dark
+    icon_pos: sub
+    caps: y
+    line: y
+    hs: 4
+    url: '#contacto'
+    label: Reserva tu partida
+    pin: brand:whatsapp
+    slider: y

@@ -1,56 +1,33 @@
 name: Contacto
 id: contacto
-title: Contacto y Reservas
-subtitle: ¿List@ para la batalla?
-md: |
-  Reserva ahora tu experiencia y asegura tu pista privada
-
-  *Abierto todos los dias bajo reserva previa*
-menu_button: cta
-box:
-  cols: 2
+menu_btn: cta
+size: xs
 boxes:
-- contact:
-  - type: schedule
-    days: Miercoles a Viernes
+- title: Contacto y Reservas
+  sub: ¿List@ para la batalla?
+  md: |
+    Reserva ahora tu experiencia y asegura tu pista privada
+
+    *Abierto todos los dias bajo reserva previa*
+  md_align: center
+  when:
+  - days: Miercoles a Viernes
     hours: 17:00 - 20:30
-    full: true
-  - type: schedule
-    days: Sábado y Domingos
+    full: y
+  - days: Sábado y Domingos
     hours: 10:00 - 21:00
-    full: true
+    full: y
+  links:
   - type: phone
     label: 600 82 21 43
   - type: whatsapp
     label: 600 82 21 43
-    # button: cta
-    icon: whatsapp-o
+    icon: brand:whatsapp-o
   - type: mail
     label: paintballindoorelche@gmail.com
-    button: similar
-    full: true
+    btn: such
+    full: y
   - type: address
     label: C. Villena, 6, 03203 Elche, Alicante
     anchor: Distrito 41 Experience - Paintball & Laser Indoor Elche, C. Villena, 6, 03203 Elche, Alicante
-    button: invert
-  # form:
-  #   email: sansoul@seacomoseo.com, paintballindoorelche@gmail.com
-  # inputs:
-  # - type: text
-  #   name: Nombre
-  #   icon: user
-  #   required: true
-  # - type: tel
-  #   name: Teléfono
-  #   icon: phone
-  # - type: email
-  #   name: Email
-  #   icon: envelope
-  #   required: true
-  # - type: textarea
-  #   name: Mensaje
-  #   icon: message
-  #   required: true
-# - geos:
-#   - type: point
-#     geo: '{"type":"Point","coordinates":[-0.673973,38.270463]}'
+    btn: turn

@@ -1,89 +1,83 @@
 icons:
-  type: solid
-  sharp: false
-  emojis: false
-  play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
+  fill: y
+  weight: 700
+  grade: 0
+  optical: 24
+  style: rounded
+  defs:
+    play: svg:youtube-iframe
 fonts:
   base:
-    google: true
     family: Montserrat
     weight: 400
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
   cursive:
-    google: true
     family: Montserrat
     weight: 800
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
-    top: 0
   title:
-    google: true
     family: Big Shoulders Stencil
     weight: 800
     bold: 0
-    italic: false
+    italic: n
     line_height: 1.25
     size: 1
-    top: 0
-  blockquote_cursive: true
+  blockquote_cursive: y
 colors:
   main:
     color: '#95cd3f'
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   alt:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
-      fill: true
-      in: true
-      text: true
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: y
+      in: y
+      text: y
   cta:
-    color: ''
-    light: ''
-    dark: ''
-    contrast:
-      fill: false
-      in: true
-      text: true
+    color: '#ffffff'
+    light: '#ffffff'
+    dark: '#ffffff'
+    turn:
+      fill: n
+      in: y
+      text: y
   base:
-    white: '#fff'
-    light: '#eee'
+    white: '#ffffff'
+    light: '#eeeeee'
     gray: '#767676'
     dark: '#1e1c1f'
-    black: '#000'
+    black: '#000000'
 rounded:
   radius: 1.33
-  chamfer: false
-buttons:
-  sides_round: false
-  dot_circle: false
-  deep: false
-  outline: false
+  chamfer: n
+btns:
+  pill: n
+  disc: n
+  deep: n
+  outline: n
   font:
     type: title
-    bold: false
-    caps: true
+    bold: n
+    caps: y
   swap:
     type: base
-    bold: false
-    caps: false
+    bold: n
+    caps: n
 inputs:
-  fill: false
-  labels_out: false
+  fill: n
+  labels: in
 shadow:
   left: 0.15
   top: 0.15

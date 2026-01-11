@@ -1,28 +1,28 @@
 name: Juegos
 id: juegos
-title: Juegos
-subtitle: Títulos de Realidad Virtual
 fade: black
 size: fluid
-gallery:
-  type: boxes
-box:
-  cols: 5
-  cols_vs: 2
-  align_y: center
-  slider: true
-  time: 2
-  pips: hide
-  arrows: float
-images:
-- fotos/vr/juegos/poster/arrowsong.jpg
-- fotos/vr/juegos/poster/cook-d-up.jpg
-- fotos/vr/juegos/poster/cops-vs-robbers.jpg
-- fotos/vr/juegos/poster/cyber-shock.jpg
-- fotos/vr/juegos/poster/dead-ahead.jpg
-- fotos/vr/juegos/poster/espionnage-express.jpg
-- fotos/vr/juegos/poster/plush-rush.jpg
-- fotos/vr/juegos/poster/quantum-arena.jpg
-- fotos/vr/juegos/poster/wayfinders.jpg
-- fotos/vr/juegos/poster/wizard-academy.jpg
-
+boxes:
+- title: Juegos
+  sub: Títulos de Realidad Virtual
+  gallery:
+    type: boxes
+  imgs:
+  - /u/fotos/vr/juegos/poster/arrowsong.jpg
+  - /u/fotos/vr/juegos/poster/cook-d-up.jpg
+  - /u/fotos/vr/juegos/poster/cops-vs-robbers.jpg
+  - /u/fotos/vr/juegos/poster/cyber-shock.jpg
+  - /u/fotos/vr/juegos/poster/dead-ahead.jpg
+  - /u/fotos/vr/juegos/poster/espionnage-express.jpg
+  - /u/fotos/vr/juegos/poster/plush-rush.jpg
+  - /u/fotos/vr/juegos/poster/quantum-arena.jpg
+  - /u/fotos/vr/juegos/poster/wayfinders.jpg
+  - /u/fotos/vr/juegos/poster/wizard-academy.jpg
+  box:
+    cols: 5
+    cols_vs: 2
+    align_y: center
+    slider: y
+    time: 2
+    pips: hide
+    arrows: float

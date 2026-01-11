@@ -1,20 +1,20 @@
 name: Galería
 id: galeria
-title: Galería
-subtitle: Así lo flipamos
 fade: black
 size: fluid
-gallery:
-  type: boxes
-box:
-  cols: 4
-  cols_vs: 2
-  align_y: center
-  slider: true
-  time: 2
-  pips: hide
-  arrows: float
-params:
-- page: images
-  box: images
-
+boxes:
+- title: Galería
+  sub: Así lo flipamos
+  gallery:
+    type: boxes
+  get:
+  - from: imgs
+    to: imgs
+  box:
+    cols: 4
+    cols_vs: 2
+    align_y: center
+    slider: y
+    time: 2
+    pips: hide
+    arrows: float

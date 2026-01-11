@@ -1,34 +1,36 @@
 name: Cabecera
 fade: main-dark
-fade_type: circle-alt
-full: true
+fade_to: disc-alt
+full: y
 size: sm
-
-hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
-bi: fotos/paintball/adultos/2024-01-20-12-57-49.jpg
-image: presentacion.mp4#mute
-ratio: 16/9
-
-box:
-  node: div
-  cols: 0
-  align_y: center
+bi: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+get:
+- from: header.bi
+  to: bi
 boxes:
-- image: base/logo.svg
-  fit_vs: 0.5
-- params:
-  - page: header.title
-    box: subtitle
-  md: |
-    {{% param header.subtitle %}}
+- hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
+  vid: /u/presentacion.mp4
+  mute: y
+  ratio: 16/9
+  box:
+    node: div
+    cols: 3
+    align_y: center
+  get:
+  - from: header.hanchor
+    to: hanchor
+  - from: header.vid
+    to: vid
+  boxes:
+  - fit: 1
+    fit_vs: .5
+    img: /u/base/logo.svg
+  - fit: 2
+    get:
+    - from: header.title
+      to: sub
+    md: |
+      {{% get header.sub %}}
 
-    [[:whatsapp: Reserva tu partida]](#contacto)
-    [[:plus: Ver Más]](#more "[invert]")
-
-params:
-- page: header.hanchor
-  box: hanchor
-- page: header.bi
-  box: bi
-- page: header.image
-  box: image
+      [[::brand:whatsapp:: Reserva tu partida]](#contacto)
+      [[::add:: Ver Más]](#more "[turn]")

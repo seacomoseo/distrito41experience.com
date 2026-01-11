@@ -1,11 +1,12 @@
 ---
 slug: realidad-virtual-vr
 title: Realidad Virtual (VR)
-image: fotos/vr/herozone-actores-grupo-a.jpg
-icon: vr-cardboard
-summary: Centro VR en Elche. Experiencias libres y Escape Room VR para grupos, cumpleaños y empresas. Mira precios, duración y cómo reservar.
-seo: Realidad Virtual | Experiencias | Escape Room VR | Elche, Alicante
-description: Centro VR en Elche. Experiencias libres y Escape Room VR para grupos, cumpleaños y empresas. Mira precios, duración y cómo reservar.
+img: /u/fotos/vr/herozone-actores-grupo-a.jpg
+icon: view_in_ar
+sum: Centro VR en Elche. Experiencias libres y Escape Room VR para grupos, cumpleaños y empresas. Mira precios, duración y cómo reservar.
+seo:
+  title: Realidad Virtual | Experiencias | Escape Room VR | Elche, Alicante
+  desc: Centro VR en Elche. Experiencias libres y Escape Room VR para grupos, cumpleaños y empresas. Mira precios, duración y cómo reservar.
 
 base: service
 price: 18
@@ -17,7 +18,6 @@ service_areas:
 - Alicante
 - Vega Baja del Segura
 - Murcia
-
 
 tpl:
   sections:
@@ -36,49 +36,47 @@ tpl:
   - file: contacto
   - file: mapa
 
-
 header:
   hanchor: Experiencias VR / Realidad Virtual en Elche, Alicante
-  bi: fotos/vr/herozone-actores-grupo-a.jpg
-  image: herozone-promo.mp4#poster=fotos/vr/herozone-actores-grupo-b.jpg#mute
+  bi: /u/fotos/vr/herozone-actores-grupo-a.jpg
+  img: /u/fotos/vr/herozone-actores-grupo-b.jpg
+  vid: /u/herozone-promo.mp4
+  mute: y
   title: Experiencias VR / Realidad Virtual en Elche, Alicante
-  subtitle: Viaja a otros mundos
+  sub: Viaja a otros mundos
 
-
-images:
-- fotos/vr/herozone-actores-arco-chica.webp
-- fotos/vr/herozone-actores-arco-chico.webp
-- fotos/vr/herozone-actores-duo.jpg
-- fotos/vr/herozone-actores-grupo-a.jpg
-- fotos/vr/herozone-actores-grupo-b.jpg
-- fotos/vr/herozone-actores-grupo-c.jpg
-- fotos/vr/herozone-actores-grupo-d.jpg
-
+imgs:
+- /u/fotos/vr/herozone-actores-arco-chica.webp
+- /u/fotos/vr/herozone-actores-arco-chico.webp
+- /u/fotos/vr/herozone-actores-duo.jpg
+- /u/fotos/vr/herozone-actores-grupo-a.jpg
+- /u/fotos/vr/herozone-actores-grupo-b.jpg
+- /u/fotos/vr/herozone-actores-grupo-c.jpg
+- /u/fotos/vr/herozone-actores-grupo-d.jpg
 
 prices:
 
 - title: Realidad Virtual (VR)
-  subtitle: desde
+  sub: desde
   price: 18 €/p
   md: |
     - **Duración:** 1 hora de juego
     - **Mínimo de jugadores:** 4
-    - **Máximo de jugadores:** 6
-  icon: vr-cardboard
+    - **Máximo de jugadores:** 10
+  icon: view_in_ar
 
 - title: Pack Cumpleaños Estándar
-  subtitle: desde
-  price: 19,99 €/p
+  sub: desde
+  price: 20 €/p
   md: |
-    - **Duración:** 1 hora de juego
+    - **Duración:** 2:30 horas de juego
     - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
     - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
     - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
-    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Extras:** Las fotos de la partida se muestran en una TV y enviamos para que tengan recuerdos inolvidables
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: cake-slice
-
+  icon: cake
 
 reviews:
 
@@ -88,7 +86,7 @@ reviews:
 
     Los visores son comodísimos y el staff nos ayudó en todo momento.
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocDrSomeHashDanImage=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocDrSomeHashDanImage=s136
   by: Google
 
 - title: Inma F.
@@ -97,7 +95,7 @@ reviews:
 
     El chaleco háptico te hace vibrar cada impacto, ¡una pasada!
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocIfSomeHashInmImage=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocIfSomeHashInmImage=s136
   by: Google
 
 - title: David L.
@@ -106,9 +104,8 @@ reviews:
 
     Experiencia súper recomendable para familias y gamers.
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocDlSomeHashDavImage=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocDlSomeHashDavImage=s136
   by: Google
-
 
 faq:
 - title: ¿Edad mínima?
@@ -121,7 +118,5 @@ faq:
   md: Zapatillas cerradas y ropa cómoda; evitad tacones o gorras.
 - title: ¿Cómo reservo?
   md: Web, WhatsApp o llamada. Seña de 20 € para bloquear tu slot.
-
 ---
-
 

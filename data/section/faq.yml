@@ -1,10 +1,11 @@
 name: FAQ
-title: FAQ
-subtitle: Preguntas Frecuentes
 size: sm
-accordion:
-  headers: true
-  hs: 4
-params:
-- page: faq
-  box: accordions
+boxes:
+- title: FAQ
+  sub: Preguntas Frecuentes
+  faq:
+    headers: y
+    hs: 4
+  get:
+  - from: faq
+    to: faqs

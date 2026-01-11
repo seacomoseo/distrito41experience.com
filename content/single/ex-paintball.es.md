@@ -1,14 +1,15 @@
 ---
 slug: paintball-indoor
 title: Paintball Indoor
-image: fotos/paintball/ninos/2017-01-29-12-49-29.jpg
-icon: location-crosshairs
-summary: Pista de paintball indoor en Elche. Partidas privadas, material incluido y packs para adultos, niños, despedidas y empresas. Consulta precios y reserva.
-seo: 'Paintball Indoor en Elche, Alicante: Pista Cubierta Exclusiva'
-description: Pista de paintball indoor en Elche. Partidas privadas, material incluido y packs para adultos, niños, despedidas y empresas. Consulta precios y reserva.
+img: /u/fotos/paintball/ninos/2017-01-29-12-49-29.jpg
+icon: my_location
+sum: Pista de paintball indoor en Elche. Partidas privadas, material incluido y packs para adultos, niños, despedidas y empresas. Consulta precios y reserva.
+seo:
+  title: 'Paintball Indoor en Elche, Alicante: Pista Cubierta Exclusiva'
+  desc: Pista de paintball indoor en Elche. Partidas privadas, material incluido y packs para adultos, niños, despedidas y empresas. Consulta precios y reserva.
 
 base: service
-price: 21.99
+price: 22
 service_types:
 - Paintball Indoor
 - Paintball para Niños
@@ -19,7 +20,6 @@ service_areas:
 - Alicante
 - Vega Baja del Segura
 - Murcia
-
 
 tpl:
   sections:
@@ -39,167 +39,167 @@ tpl:
   - file: contacto
   - file: mapa
 
-
 header:
   hanchor: Paintball Indoor en Elche, Alicante
-  bi: fotos/paintball/adultos/2024-01-20-12-57-49.jpg
-  image: presentacion.mp4#mute
+  bi: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+  vid: /u/presentacion.mp4
+  mute: y
   title: Paintball Indoor en Elche, Alicante
-  subtitle: Bolazos que pican, no duelen
+  sub: Bolazos que pican, no duelen
 
+imgs:
 
-images:
+- /u/fotos/instalaciones/2024-01-20-12-32-14.jpg
+- /u/fotos/instalaciones/2024-01-12-12-40-35.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-23.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-22.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-21.jpg
+- /u/fotos/instalaciones/2020-02-27-13-25-20.jpg
+- /u/fotos/instalaciones/2019-05-25-20-45-01.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-54.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-41.jpg
+- /u/fotos/instalaciones/2019-05-25-20-43-25.jpg
+- /u/fotos/instalaciones/2017-10-24-18-56-11.jpg
 
-- fotos/instalaciones/2024-01-20-12-32-14.jpg
-- fotos/instalaciones/2024-01-12-12-40-35.jpg
-- fotos/instalaciones/2020-02-27-13-25-23.jpg
-- fotos/instalaciones/2020-02-27-13-25-22.jpg
-- fotos/instalaciones/2020-02-27-13-25-21.jpg
-- fotos/instalaciones/2020-02-27-13-25-20.jpg
-- fotos/instalaciones/2019-05-25-20-45-01.jpg
-- fotos/instalaciones/2019-05-25-20-43-54.jpg
-- fotos/instalaciones/2019-05-25-20-43-41.jpg
-- fotos/instalaciones/2019-05-25-20-43-25.jpg
-- fotos/instalaciones/2017-10-24-18-56-11.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-04-33.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-03-50.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-03-29.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-02-31.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-01-44.jpg
+- /u/fotos/paintball/ninos/2023-10-14-11-00-46.jpg
+- /u/fotos/paintball/ninos/2023-04-02-19-10-21.jpg
+- /u/fotos/paintball/ninos/2023-04-02-18-01-35.jpg
+- /u/fotos/paintball/ninos/2023-04-02-18-01-23.jpg
+- /u/fotos/paintball/ninos/2023-04-02-17-54-54.jpg
+- /u/fotos/paintball/ninos/2017-07-23-18-57-47.jpg
+- /u/fotos/paintball/ninos/2017-01-29-12-49-29.jpg
+- /u/fotos/paintball/ninos/2017-01-27-18-40-52.jpg
+- /u/fotos/paintball/ninos/2017-01-27-18-26-17.jpg
+- /u/fotos/paintball/ninos/2017-01-21-02-52-24.jpg
+- /u/fotos/paintball/ninos/2017-01-21-02-51-47.jpg
+- /u/fotos/paintball/ninos/2017-01-21-02-51-12.jpg
+- /u/fotos/paintball/ninos/2017-01-21-02-51-07.jpg
+- /u/fotos/paintball/ninos/2017-01-16-02-50-56.jpg
+- /u/fotos/paintball/ninos/2017-01-15-20-15-12.jpg
+- /u/fotos/paintball/ninos/2017-01-15-05-35-27.jpg
+- /u/fotos/paintball/ninos/2017-01-14-03-58-00.jpg
+- /u/fotos/paintball/ninos/2017-01-14-03-57-53.jpg
+- /u/fotos/paintball/ninos/2017-01-14-02-54-33.jpg
+- /u/fotos/paintball/ninos/2016-12-31-04-03-28.jpg
+- /u/fotos/paintball/ninos/2016-12-21-04-18-30.jpg
+- /u/fotos/paintball/ninos/2016-11-19-19-49-01.jpg
+- /u/fotos/paintball/ninos/2016-11-19-19-47-11.jpg
 
-- fotos/paintball/ninos/2023-10-14-11-04-33.jpg
-- fotos/paintball/ninos/2023-10-14-11-03-50.jpg
-- fotos/paintball/ninos/2023-10-14-11-03-29.jpg
-- fotos/paintball/ninos/2023-10-14-11-02-31.jpg
-- fotos/paintball/ninos/2023-10-14-11-01-44.jpg
-- fotos/paintball/ninos/2023-10-14-11-00-46.jpg
-- fotos/paintball/ninos/2023-04-02-19-10-21.jpg
-- fotos/paintball/ninos/2023-04-02-18-01-35.jpg
-- fotos/paintball/ninos/2023-04-02-18-01-23.jpg
-- fotos/paintball/ninos/2023-04-02-17-54-54.jpg
-- fotos/paintball/ninos/2017-07-23-18-57-47.jpg
-- fotos/paintball/ninos/2017-01-29-12-49-29.jpg
-- fotos/paintball/ninos/2017-01-27-18-40-52.jpg
-- fotos/paintball/ninos/2017-01-27-18-26-17.jpg
-- fotos/paintball/ninos/2017-01-21-02-52-24.jpg
-- fotos/paintball/ninos/2017-01-21-02-51-47.jpg
-- fotos/paintball/ninos/2017-01-21-02-51-12.jpg
-- fotos/paintball/ninos/2017-01-21-02-51-07.jpg
-- fotos/paintball/ninos/2017-01-16-02-50-56.jpg
-- fotos/paintball/ninos/2017-01-15-20-15-12.jpg
-- fotos/paintball/ninos/2017-01-15-05-35-27.jpg
-- fotos/paintball/ninos/2017-01-14-03-58-00.jpg
-- fotos/paintball/ninos/2017-01-14-03-57-53.jpg
-- fotos/paintball/ninos/2017-01-14-02-54-33.jpg
-- fotos/paintball/ninos/2016-12-31-04-03-28.jpg
-- fotos/paintball/ninos/2016-12-21-04-18-30.jpg
-- fotos/paintball/ninos/2016-11-19-19-49-01.jpg
-- fotos/paintball/ninos/2016-11-19-19-47-11.jpg
+- /u/fotos/paintball/adolescentes/2023-12-30-17-11-34.jpg
+- /u/fotos/paintball/adolescentes/2017-02-04-20-10-20.jpg
+- /u/fotos/paintball/adolescentes/2017-02-04-13-38-08.jpg
+- /u/fotos/paintball/adolescentes/2016-09-22-19-06-07.jpg
+- /u/fotos/paintball/adolescentes/2016-07-26-04-57-54.jpg
 
-- fotos/paintball/adolescentes/2023-12-30-17-11-34.jpg
-- fotos/paintball/adolescentes/2017-02-04-20-10-20.jpg
-- fotos/paintball/adolescentes/2017-02-04-13-38-08.jpg
-- fotos/paintball/adolescentes/2016-09-22-19-06-07.jpg
-- fotos/paintball/adolescentes/2016-07-26-04-57-54.jpg
-
-- fotos/paintball/adultos/2024-12-29-17-23-02.jpg
-- fotos/paintball/adultos/2024-01-20-13-06-16.jpg
-- fotos/paintball/adultos/2024-01-20-13-01-18.jpg
-- fotos/paintball/adultos/2024-01-20-13-01-10.jpg
-- fotos/paintball/adultos/2024-01-20-13-00-15.jpg
-- fotos/paintball/adultos/2024-01-20-12-59-45.jpg
-- fotos/paintball/adultos/2024-01-20-12-59-42.jpg
-- fotos/paintball/adultos/2024-01-20-12-59-40.jpg
-- fotos/paintball/adultos/2024-01-20-12-59-27.jpg
-- fotos/paintball/adultos/2024-01-20-12-58-49.jpg
-- fotos/paintball/adultos/2024-01-20-12-58-45.jpg
-- fotos/paintball/adultos/2024-01-20-12-57-49.jpg
-- fotos/paintball/adultos/2024-01-20-12-56-25.jpg
-- fotos/paintball/adultos/2024-01-20-12-56-22.jpg
-- fotos/paintball/adultos/2024-01-20-12-55-59.jpg
-- fotos/paintball/adultos/2024-01-20-12-46-54.jpg
-- fotos/paintball/adultos/2024-01-20-12-45-18.jpg
-- fotos/paintball/adultos/2024-01-20-12-44-45.jpg
-- fotos/paintball/adultos/2024-01-20-12-44-06.jpg
-- fotos/paintball/adultos/2024-01-20-12-44-04.jpg
-- fotos/paintball/adultos/2024-01-20-12-44-01.jpg
-- fotos/paintball/adultos/2024-01-20-12-43-57.jpg
-- fotos/paintball/adultos/2024-01-20-12-41-57.jpg
-- fotos/paintball/adultos/2024-01-20-12-38-43.jpg
-- fotos/paintball/adultos/2024-01-20-12-38-36.jpg
-- fotos/paintball/adultos/2024-01-20-12-38-34.jpg
-- fotos/paintball/adultos/2024-01-20-12-38-33.jpg
-- fotos/paintball/adultos/2024-01-20-12-38-32.jpg
-- fotos/paintball/adultos/2024-01-20-12-37-32.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-34.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-29.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-21.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-19.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-17.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-13.jpg
-- fotos/paintball/adultos/2024-01-20-12-36-12.jpg
-- fotos/paintball/adultos/2024-01-20-12-35-59.jpg
-- fotos/paintball/adultos/2024-01-20-12-35-27.jpg
-- fotos/paintball/adultos/2024-01-20-12-35-19.jpg
-- fotos/paintball/adultos/2024-01-20-12-24-30.jpg
-- fotos/paintball/adultos/2024-01-20-12-17-30.jpg
-- fotos/paintball/adultos/2024-01-20-12-13-31.jpg
-- fotos/paintball/adultos/2024-01-20-12-11-50.jpg
-- fotos/paintball/adultos/2024-01-20-12-09-23.jpg
-- fotos/paintball/adultos/2017-03-27-21-05-54.jpg
-- fotos/paintball/adultos/2017-03-09-13-28-47.jpg
-- fotos/paintball/adultos/2016-12-08-19-06-38.jpg
-- fotos/paintball/adultos/2016-11-27-05-27-20.jpg
-- fotos/paintball/adultos/2016-11-26-20-21-42.jpg
-- fotos/paintball/adultos/2016-11-22-04-19-35.jpg
-- fotos/paintball/adultos/2016-11-22-04-16-43.jpg
-
+- /u/fotos/paintball/adultos/2024-12-29-17-23-02.jpg
+- /u/fotos/paintball/adultos/2024-01-20-13-06-16.jpg
+- /u/fotos/paintball/adultos/2024-01-20-13-01-18.jpg
+- /u/fotos/paintball/adultos/2024-01-20-13-01-10.jpg
+- /u/fotos/paintball/adultos/2024-01-20-13-00-15.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-59-45.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-59-42.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-59-40.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-59-27.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-58-49.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-58-45.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-56-25.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-56-22.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-55-59.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-46-54.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-45-18.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-44-45.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-44-06.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-44-04.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-44-01.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-43-57.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-38-43.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-38-36.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-38-34.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-38-33.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-38-32.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-37-32.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-34.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-29.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-21.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-19.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-17.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-13.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-36-12.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-35-59.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-35-27.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-35-19.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-24-30.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-17-30.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-13-31.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-11-50.jpg
+- /u/fotos/paintball/adultos/2024-01-20-12-09-23.jpg
+- /u/fotos/paintball/adultos/2017-03-27-21-05-54.jpg
+- /u/fotos/paintball/adultos/2017-03-09-13-28-47.jpg
+- /u/fotos/paintball/adultos/2016-12-08-19-06-38.jpg
+- /u/fotos/paintball/adultos/2016-11-27-05-27-20.jpg
+- /u/fotos/paintball/adultos/2016-11-26-20-21-42.jpg
+- /u/fotos/paintball/adultos/2016-11-22-04-19-35.jpg
+- /u/fotos/paintball/adultos/2016-11-22-04-16-43.jpg
 
 prices:
 
 - title: Paintball Indoor
-  subtitle: desde
-  price: 21,99 €/p
+  sub: desde
+  price: 22 €/p
   md: |
     - **Duración:** 1 hora de juego
     - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
     - **Público:** mayores de 14 años
     - **Mínimo de jugadores:** 8
     - **Características:** Bolas ilimitadas
-  icon: location-crosshairs
+  icon: my_location
 
 - title: Pack Cumpleaños Estándar
-  subtitle: desde
-  price: 19,99 €/p
+  sub: desde
+  price: 20 €/p
   md: |
-    - **Duración:** 1 hora de juego
+    - **Duración:** 2:30 horas de juego
     - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
     - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
     - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
-    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Extras:** Las fotos de la partida se muestran en una TV y enviamos para que tengan recuerdos inolvidables
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: cake-slice
+  icon: cake
 - title: Pack Cumpleaños Mediodía
-  subtitle: desde
+  sub: desde
   price: 35 €/p
   md: |
     - **Duración:** De 12:00 a 15:30-16:00
     - **Actividades:** El programa sigue el siguiente orden: 1 hora de paintball, comida de pizza, 1 hora de juego de láser, y tarta de donuts
     - **Comida:** Incluye pizza, además de la tarta de donuts
-    - **Extras:** Las fotos de la partida se muestran en una TV
+    - **Extras:** Las fotos de la partida se muestran en una TV y enviamos para que tengan recuerdos inolvidables
     - **Edad máxima:** 14 años
     - **Mínimo de jugadores:** 10
-  icon: cake-candles
+  icon: cake_add
 - title: Pack Despedidas de Solter@
-  subtitle: desde
+  sub: desde
   price: 18 €/p
   md: |
     - **Precio:** El precio es el mismo que en los paquetes anteriores, según la actividad elegida
-    - **Extras:** Incluye "misión especial novi@s"
-  icon: party-horn
-- title: Pack Jugones y Team Building
-  subtitle: desde
+    - **Extras:** Incluye disfraz sorpresa + "misión especial novi@s"
+  icon: celebration
+- title: Pack Jugones
+  sub: desde
   price: 37 €/p
   md: |
-    - **Duración:** 1 hora de paintball más 1 hora de juego de láser
-  icon: people-group
-
+    - **Duración:** 1 hora de paintball indoor maxima adrenalina + 1 hora de lasertag o 1 hora de VR
+    - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
+    - **Público:** mayores de 14 años
+    - **Características:** Bolas ilimitadas + Misión especial Jugones, ¿Serás capaz de desafiar todas las misiones del Distrito41?
+  icon: groups_3
 
 reviews:
 
@@ -223,7 +223,7 @@ reviews:
 
     Sin duda, repetiremos.
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocLK5EnRm_veIorS_UhASMJfa849aserz2qxiMIrwq8TL9ZkPg=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocLK5EnRm_veIorS_UhASMJfa849aserz2qxiMIrwq8TL9ZkPg=s136
   by: Google
 
 - title: Juanma A.
@@ -238,7 +238,7 @@ reviews:
 
     ¡Muy recomendable!
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocKZvasHuC1sHCTXv9QU51j9-WG_yLaFk5YRirelUH4ErqjXQQ=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocKZvasHuC1sHCTXv9QU51j9-WG_yLaFk5YRirelUH4ErqjXQQ=s136
   by: Google
 
 - title: Noeli A.
@@ -251,7 +251,7 @@ reviews:
 
     Repetiremos!
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocJyYWedYwu9Sv7sVXoPFNS9C5a3q_HPk766rIIhYeCuiorNYg=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocJyYWedYwu9Sv7sVXoPFNS9C5a3q_HPk766rIIhYeCuiorNYg=s136
   by: Google
 
 - title: Antonio G.
@@ -272,7 +272,7 @@ reviews:
 
     5 estrellas.
   rating: 5
-  image: https://lh3.googleusercontent.com/a-/ALV-UjW5DDQLqpBuePVsjgtOLoo7r4gznHFNI2zvmm_lq7b_uRkvoC_32A=s136
+  img: https://lh3.googleusercontent.com/a-/ALV-UjW5DDQLqpBuePVsjgtOLoo7r4gznHFNI2zvmm_lq7b_uRkvoC_32A=s136
   by: Google
 
 - title: David C.
@@ -287,7 +287,7 @@ reviews:
 
     ...Muy divertido, volveré 😊
   rating: 5
-  image: https://lh3.googleusercontent.com/a-/ALV-UjUa2w0_6FNnzM4MJEMeEZ-JYSbfkUXbW2KY2tzRk1K34RIIssEG=s136
+  img: https://lh3.googleusercontent.com/a-/ALV-UjUa2w0_6FNnzM4MJEMeEZ-JYSbfkUXbW2KY2tzRk1K34RIIssEG=s136
   by: Google
 
 - title: MCMT 0818
@@ -296,7 +296,7 @@ reviews:
 
     ...en general muy amables y dando facilidades. Gracias por todo.
   rating: 5
-  image: https://lh3.googleusercontent.com/a-/ALV-UjUh7yjpHMZBTvfJff7LpaI7ueE1D6lJwqoqAqJcjtK9gdjgqyCW=s136
+  img: https://lh3.googleusercontent.com/a-/ALV-UjUh7yjpHMZBTvfJff7LpaI7ueE1D6lJwqoqAqJcjtK9gdjgqyCW=s136
   by: Google
 
 - title: Andrés
@@ -307,7 +307,7 @@ reviews:
 
     Muy buena experiencia y sin duda repetiremos
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocKDMZrr6Kxfn_L-AUDo8X396QVQyouPTxPzC9kh0xOX5frUag=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocKDMZrr6Kxfn_L-AUDo8X396QVQyouPTxPzC9kh0xOX5frUag=s136
   by: Google
 
 - title: Maite B.
@@ -322,7 +322,7 @@ reviews:
 
     Repetiremos
   rating: 5
-  image: https://lh3.googleusercontent.com/a/ACg8ocJ2sW7RYX7zTJXNdU8-GC5QKmGkQUmSmTTPtQHa1nzMd3KPOw=s136
+  img: https://lh3.googleusercontent.com/a/ACg8ocJ2sW7RYX7zTJXNdU8-GC5QKmGkQUmSmTTPtQHa1nzMd3KPOw=s136
   by: Google
 
 - title: Mario F.
@@ -333,9 +333,8 @@ reviews:
 
     ...Recomiendo llevar un par de gafas pequeñas o lentillas ese día.
   rating: 5
-  image: https://lh3.googleusercontent.com/a-/ALV-UjVHPKCWFvcyrc-wIsH5OcqJWBotKrj4MMEPVLon2jhkzb8hwgSF=s136
+  img: https://lh3.googleusercontent.com/a-/ALV-UjVHPKCWFvcyrc-wIsH5OcqJWBotKrj4MMEPVLon2jhkzb8hwgSF=s136
   by: Google
-
 
 faq:
 - title: ¿A partir de qué edad se puede jugar?
@@ -348,7 +347,5 @@ faq:
   md: Zapatillas cómodas y pantalón suelto; te prestamos camiseta camo y peto.
 - title: ¿Cómo reservo?
   md: Online, teléfono o WhatsApp. Señal mínima y ¡pista confirmada!
-
 ---
-
 

@@ -1,5 +1,5 @@
 baseURL: https://distrito41experience.com
-buildFuture: true
+buildFuture: y
 theme: [sansoul]
 params:
   domain: distrito41experience.com
@@ -7,5 +7,5 @@ params:
   netlify_id: ''
   netlify_hook: ''
   cloudflare_id: ZTY0MTYyNTU4MDllNmQ4M2IyNzUxZDRhNjlkNmU1MmEK
-  drive_link: https://drive.google.com/file/d/1IhyW50y4O7_1_qiPKdMLp_DBcshN9NAc
+  drive_url: https://drive.google.com/file/d/1IhyW50y4O7_1_qiPKdMLp_DBcshN9NAc
   drive_mails: paintballindoorelche@gmail.com

@@ -1,9 +1,10 @@
 name: Mapa
-hanchor: Mapa
-menu_button: hide
-ph: true
+menu_btn: hide
+ph: y
 size: fluid
-rate: 3/1
-geos:
-- type: point
-  geo: '{"type":"Point","coordinates":[-0.673973,38.270463]}'
+boxes:
+- hanchor: Mapa
+  rate: 3/1
+  geos:
+  - type: point
+    geo: '{"type":"Point","coordinates":[-0.673973,38.270463]}'

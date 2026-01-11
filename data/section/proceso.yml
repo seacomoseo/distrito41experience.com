@@ -1,26 +1,27 @@
 name: Proceso
-title: Proceso
-subtitle: ¿Qué pasos seguimos?
-step:
-  line: true
-steps:
-- title: Lorem ipsum
-  subtitle: Dolor sit amet
-  icon: star
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- title: Lorem ipsum
-  subtitle: Dolor sit amet
-  icon: star
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- title: Lorem ipsum
-  subtitle: Dolor sit amet
-  icon: star
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- title: Lorem ipsum
-  subtitle: Dolor sit amet
-  icon: star
-  md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+boxes:
+- title: Proceso
+  sub: ¿Qué pasos seguimos?
+  step:
+    line: y
+  steps:
+  - title: Lorem ipsum
+    sub: Dolor sit amet
+    icon: star
+    md: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Lorem ipsum
+    sub: Dolor sit amet
+    icon: star
+    md: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Lorem ipsum
+    sub: Dolor sit amet
+    icon: star
+    md: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  - title: Lorem ipsum
+    sub: Dolor sit amet
+    icon: star
+    md: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

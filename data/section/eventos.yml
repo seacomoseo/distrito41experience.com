@@ -1,32 +1,44 @@
 name: Eventos
-title: Eventos
-subtitle: Todo listo
-md: para que solo te ocupes de pasarlo bien
-box:
-  cols: 3
-  card: true
-  caps: true
-  line: true
-  hs: 4
-  md_sm: true
-  icon_type: bottom
-  label: Ver más
 boxes:
-- title: Cumpleaños
-  # subtitle: Fiestas que marcan época
-  md: Celebra a lo grande con acción, sala de meriendas y fotos de recuerdo
-  icon: cake-candles
-  image: fotos/paintball/ninos/2023-10-14-11-02-31.jpg
-  link: /cumpleanos/
-- title: Despedidas de Solter@
-  # subtitle: Adiós soltería, hola adrenalina
-  md: 'Última misión antes del “sí, quiero”: retos, risas y cervezas bien frías'
-  icon: party-horn
-  image: fotos/paintball/adultos/2019-10-11-20-00-00.jpg
-  link: /despedidas/
-- title: Team Building
-  # subtitle: Equipos que juegan, equipos que ganan
-  md: Refuerza comunicación y estrategia en un entorno inmersivo y privado
-  icon: people-group
-  image: fotos/paintball/adultos/2024-01-20-12-38-34.jpg
-  link: /team-building/
+- title: Eventos
+  sub: Todo listo
+  md: para que solo te ocupes de pasarlo bien
+  box:
+    cols: 3
+    card: y
+    caps: y
+    line: y
+    hs: 4
+    md_sm: y
+    icon_pos: sub
+    label: Ver más
+  boxes:
+  - title: Cumpleaños
+    md: Celebra a lo grande con acción, sala de meriendas y fotos de recuerdo
+    icon: cake_add
+    img: /u/fotos/paintball/ninos/2023-10-14-11-02-31.jpg
+    url: /cumpleanos/
+  - title: Despedidas de Solter@
+    md: 'Última misión antes del “sí, quiero”: retos, risas y cervezas bien frías'
+    icon: celebration
+    img: /u/fotos/paintball/adultos/2019-10-11-20-00-00.jpg
+    url: /despedidas/
+  - title: Team Building
+    md: Refuerza comunicación y estrategia en un entorno inmersivo y privado
+    icon: groups_3
+    img: /u/fotos/paintball/adultos/2024-01-20-12-38-34.jpg
+    url: /team-building/
+  - title: Excursiones Escolartes
+    md: Jornadas deportivas y de cohesión para colegios e institutos en Elche y Alicante
+    icon: child_hat
+    img: /u/fotos/paintball/ninos/2017-01-27-18-40-52.jpg
+    url: '#contacto'
+    label: Reserva o pide información
+    pin: brand:whatsapp
+  - title: Eventos a domicilio
+    md: La solución perfecta para comuniones, cumpleaños privados, celebraciones, fiestas vecinales, etc.
+    icon: local_shipping
+    img: /u/fotos/paintball/adultos/2024-01-20-12-58-45.jpg
+    url: '#contacto'
+    label: Reserva o pide información
+    pin: brand:whatsapp

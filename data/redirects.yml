@@ -1,0 +1,19 @@
+- { from: http://paintballindoorelche.com/ , to: https://distrito41experience.com/ }
+- { from: http://paintballindoorelche.com/* , to: https://distrito41experience.com/:splat }
+- { from: http://www.paintballindoorelche.com/ , to: https://distrito41experience.com/ }
+- { from: http://www.paintballindoorelche.com/* , to: https://distrito41experience.com/:splat }
+
+- { from: /index.htm , to: / }
+- { from: /paintball%20indoor.htm , to: /paintball-indoor/ }
+- { from: /paintball%20infantil.htm , to: /paintball-indoor/#ninos }
+- { from: /laser%20combat.htm , to: /laser-tag/ }
+- { from: /nerf.htm , to: /nerf/ }
+- { from: /nerf/ , to: /batallas-nerf/ }
+- { from: /team%20building.htm , to: /team-building/ }
+- { from: /eventos-cumple.htm , to: /cumpleanos/ }
+- { from: /eventos-despedida.htm , to: /despedidas/ }
+- { from: /eventos-oferta%20el%20mes.htm , to: /#eventos }
+- { from: /tarifas.htm , to: /#precios }
+- { from: /contact.htm , to: /#contacto }
+- { from: /index_htm_files/invitaciones.jpg , to: / }
+- { from: /index_htm_files/VIDEO%20GIF%20LASER.gif , to: / }
