@@ -9,6 +9,7 @@ get:
   to: bi
 boxes:
 - hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
+  img: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
   vid: /u/presentacion.mp4
   mute: y
   ratio: 16/9

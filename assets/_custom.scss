@@ -8,4 +8,23 @@
   .box__sub      { @include show-from(2); }
   .box__md p     { @include show-from(3); }
   .box__md .btns { @include show-from(4); }
+  @media (min-aspect-ratio: 16/9) {
+    .img:has(video) {
+      position: fixed;
+      top: 0;
+      width: 100lvw;
+      height: 100lvh;
+      margin-inline: calc(var(--container-width) * -1);
+      background-color: var(--dark);
+    }
+    video {
+      @include hide-radius;
+      width: 100%;
+      height: 100%;
+      opacity: .7;
+    }
+    .boxes.box__block {
+      margin-top: 0;
+    }
+  }
 }

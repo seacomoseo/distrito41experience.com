@@ -165,7 +165,7 @@ prices:
   sub: desde
   price: 20 €/p
   md: |
-    - **Duración:** 2:30 horas de juego
+    - **Duración:** 2:30 horas de diversión
     - **Preparación:** 30 minutos antes para la formación de equipos y el equipamiento
     - **Actividades:** A elegir entre paintball, láser o realidad virtual (VR)
     - **Merienda:** Incluye hot dog, patatas, palomitas, bebida y una tarta de donuts con velas
