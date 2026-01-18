@@ -44,6 +44,7 @@ tpl:
 header:
   hanchor: Laser Tag en Elche, Alicante
   bi: /u/fotos/laser-tag/2017-01-27-14-22-17.jpg
+  img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
   mute: y
   title: Laser Tag en Elche, Alicante

@@ -43,6 +43,7 @@ tpl:
 header:
   hanchor: 'Team Building en Elche, Alicante: Cohesión y Diversión'
   bi: /u/fotos/paintball/adultos/2024-01-20-12-38-34.jpg
+  img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
   mute: y
   title: 'Team Building en Elche, Alicante: Cohesión y Diversión'

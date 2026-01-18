@@ -3,15 +3,15 @@ fade: main-dark
 fade_to: disc-alt
 full: y
 size: sm
-bi: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+bi: /u/presentacion.mp4
 get:
 - from: header.bi
   to: bi
 boxes:
 - hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
-  img: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+  img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  # mute: y
   ratio: 16/9
   box:
     node: div
@@ -22,6 +22,8 @@ boxes:
     to: hanchor
   - from: header.vid
     to: vid
+  - from: header.img
+    to: img
   boxes:
   - fit: 1
     fit_vs: .5

@@ -42,6 +42,7 @@ tpl:
 header:
   hanchor: 'Cumpleaños en Elche, Alicante: Niños, Adolescentes y Adultos'
   bi: /u/fotos/paintball/ninos/2023-10-14-11-02-31.jpg
+  img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
   mute: y
   title: 'Cumpleaños en Elche, Alicante: Niños, Adolescentes y Adultos'

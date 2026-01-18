@@ -161,6 +161,7 @@ tpl:
 header:
   hanchor: 'Distrito 41 Experience: Ocio Indoor en Elche, Alicante'
   bi: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
+  img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
   mute: y
   title: Paintball, Laser Tag y VR y NERF
