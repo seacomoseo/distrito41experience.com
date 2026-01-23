@@ -3,10 +3,10 @@ slug: cumpleanos
 title: Cumpleaños
 img: /u/fotos/paintball/ninos/2023-10-14-11-02-31.jpg
 icon: cake_add
-sum: 'Celebra cumpleaños en Elche (Alicante): paintball, Laser Tag, VR y NERF. Packs, sala de meriendas y extras. Precios y reserva fácil por WhatsApp.'
+sum: 'Celebra cumpleaños en Elche (Alicante): paintball, Laser Tag y VR. Packs, sala de meriendas y extras. Precios y reserva fácil por WhatsApp.'
 seo:
   title: 'Cumpleaños en Elche, Alicante: Niños, Adolescentes y Adultos'
-  desc: 'Celebra cumpleaños en Elche (Alicante): paintball, Laser Tag, VR y NERF. Packs, sala de meriendas y extras. Precios y reserva fácil por WhatsApp.'
+  desc: 'Celebra cumpleaños en Elche (Alicante): paintball, Laser Tag y VR. Packs, sala de meriendas y extras. Precios y reserva fácil por WhatsApp.'
 
 base: service
 price: 19.99

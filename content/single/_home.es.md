@@ -164,7 +164,7 @@ header:
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
   mute: y
-  title: Paintball, Laser Tag y VR y NERF
+  title: Paintball, Laser Tag y VR # y NERF
   sub: en Elche, Alicante
 
 imgs:
