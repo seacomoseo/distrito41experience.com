@@ -43,7 +43,7 @@ org:
   # - /u/fotos/nerf/2025-07-31-21-34-00.jpg
   as:
   - https://www.tiktok.com/@distrito41experience
-  - https://www.instagram.com/distrito41_paintball_indoor/
+  - https://www.instagram.com/distrito41experience/
   - https://www.facebook.com/distrito41elche/
   - https://www.tripadvisor.es/Attraction_Review-g661469-d10783920-Reviews-Distrito_41_Paintball_Indoor-Elche_Costa_Blanca_Province_of_Alicante_Valencian_C.html
   - https://www.yumping.com/multiaventura/distrito-41--e19734939
