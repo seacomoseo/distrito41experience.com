@@ -27,7 +27,7 @@ service_areas:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
 
   - file: soltero
@@ -45,7 +45,7 @@ header:
   bi: /u/fotos/paintball/adultos/2019-10-11-20-00-00.jpg
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  mute: true
   title: 'Despedidas de Solter@ originales en Elche, Alicante'
   sub: 'Última misión antes del “sí, quiero”: retos, risas y cervezas bien frías con Paintball, Laser Tag y VR'
 

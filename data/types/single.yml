@@ -3,7 +3,7 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: n
+    logo: false
     sticky: auto
     size: lg
     auto: same-modals
@@ -15,8 +15,8 @@ tpl:
     alpha: 0.7
     scroll: fix
     div: drip
-    div_x: n
-    div_y: n
+    div_x: false
+    div_y: false
     box:
-      caps: y
-  - div_x: y
+      caps: true
+  - div_x: true

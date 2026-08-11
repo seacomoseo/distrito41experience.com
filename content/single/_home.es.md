@@ -65,15 +65,15 @@ org:
   - Murcia
   when:
   - days:
-      wed: y
-      thu: y
-      fri: y
+      wed: true
+      thu: true
+      fri: true
     hours:
     - open: 17:00
       close: 20:30
   - days:
-      sat: y
-      sun: y
+      sat: true
+      sun: true
     hours:
     - open: 10:00
       close: 21:00
@@ -147,7 +147,7 @@ org:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
   - file: experiencias
   - file: eventos
@@ -163,7 +163,7 @@ header:
   bi: /u/fotos/paintball/adultos/2024-01-20-12-57-49.jpg
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  mute: true
   title: Paintball, Laser Tag y VR # y NERF
   sub: en Elche, Alicante
 

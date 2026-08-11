@@ -7,7 +7,7 @@ boxes:
     color: dark
     fade: main-dark
     fade_to: t
-    slider: y
+    slider: true
     time: 8
   get:
   - to: reviews

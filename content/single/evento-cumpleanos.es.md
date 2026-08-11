@@ -24,7 +24,7 @@ service_areas:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
 
   - file: ninos
@@ -44,7 +44,7 @@ header:
   bi: /u/fotos/paintball/ninos/2023-10-14-11-02-31.jpg
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  mute: true
   title: 'Cumpleaños en Elche, Alicante: Niños, Adolescentes y Adultos'
   sub: Celebra a lo grande con acción, sala de meriendas y fotos de recuerdo
 

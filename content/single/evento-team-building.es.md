@@ -27,7 +27,7 @@ service_areas:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
 
   - file: objetivos
@@ -45,7 +45,7 @@ header:
   bi: /u/fotos/paintball/adultos/2024-01-20-12-38-34.jpg
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  mute: true
   title: 'Team Building en Elche, Alicante: Cohesión y Diversión'
   sub: Refuerza comunicación y estrategia en un entorno inmersivo y privado
 

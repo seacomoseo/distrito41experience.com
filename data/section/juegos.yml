@@ -22,7 +22,7 @@ boxes:
     cols: 5
     cols_vs: 2
     align_y: center
-    slider: y
+    slider: true
     time: 2
     pips: hide
     arrows: float

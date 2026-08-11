@@ -5,11 +5,11 @@ boxes:
   md: Todas incluyen monitor, briefing y fotos de recuerdo
   box:
     cols: 0
-    card: y
-    caps: y
-    line: y
+    card: true
+    caps: true
+    line: true
     hs: 4
-    md_sm: y
+    md_sm: true
     icon_pos: sub
     label: Ver más
   boxes:

@@ -1,7 +1,8 @@
 baseURL: https://distrito41experience.com
-buildFuture: y
+buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: distrito41experience.com
   name: distrito41experience
   netlify_id: 170f9232-02ad-4deb-b3a7-0cfea2e97292

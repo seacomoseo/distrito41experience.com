@@ -5,11 +5,11 @@ boxes:
   md: para que solo te ocupes de pasarlo bien
   box:
     cols: 3
-    card: y
-    caps: y
-    line: y
+    card: true
+    caps: true
+    line: true
     hs: 4
-    md_sm: y
+    md_sm: true
     icon_pos: sub
     label: Ver más
   boxes:

@@ -21,7 +21,7 @@ service_areas:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
 
   - file: juegos
@@ -41,7 +41,7 @@ header:
   bi: /u/fotos/vr/herozone-actores-grupo-a.jpg
   img: /u/fotos/vr/herozone-actores-grupo-b.jpg
   vid: /u/herozone-promo.mp4
-  mute: y
+  mute: true
   title: Experiencias VR / Realidad Virtual en Elche, Alicante
   sub: Viaja a otros mundos
 

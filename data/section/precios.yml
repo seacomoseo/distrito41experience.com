@@ -10,10 +10,10 @@ boxes:
     cols: 3
     color: dark
     icon_pos: sub
-    caps: y
-    line: y
+    caps: true
+    line: true
     hs: 4
     url: '#contacto'
     label: Reserva tu partida
     pin: brand:whatsapp
-    slider: y
+    slider: true

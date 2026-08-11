@@ -4,7 +4,7 @@ boxes:
 - title: FAQ
   sub: Preguntas Frecuentes
   faq:
-    headers: y
+    headers: true
     hs: 4
   get:
   - from: faq

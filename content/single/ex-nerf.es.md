@@ -21,7 +21,7 @@ service_areas:
 
 tpl:
   sections:
-  - file: _header
+  - file: _hero
   - file: caracteristicas
 
   - file: que-es
@@ -40,7 +40,7 @@ header:
   bi: /u/fotos/nerf/2025-07-31-21-34-00.jpg
   img: /u/fotos/paintball/adultos/2024-01-20-12-41-57.jpg
   vid: /u/presentacion.mp4
-  mute: y
+  mute: true
   title: Batallas NERF en Elche, Alicante
   sub: Diversión segura para niños
 

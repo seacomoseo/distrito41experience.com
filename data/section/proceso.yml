@@ -3,7 +3,7 @@ boxes:
 - title: Proceso
   sub: ¿Qué pasos seguimos?
   step:
-    line: y
+    line: true
   steps:
   - title: Lorem ipsum
     sub: Dolor sit amet

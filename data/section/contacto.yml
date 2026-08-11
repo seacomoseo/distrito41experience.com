@@ -13,10 +13,10 @@ boxes:
   when:
   - days: Miercoles a Viernes
     hours: 17:00 - 20:30
-    full: y
+    full: true
   - days: Sábado y Domingos
     hours: 10:00 - 21:00
-    full: y
+    full: true
   links:
   - type: phone
     label: 600 82 21 43
@@ -26,7 +26,7 @@ boxes:
   - type: mail
     label: paintballindoorelche@gmail.com
     btn: such
-    full: y
+    full: true
   - type: address
     label: C. Villena, 6, 03203 Elche, Alicante
     anchor: Distrito 41 Experience - Paintball & Laser Indoor Elche, C. Villena, 6, 03203 Elche, Alicante
